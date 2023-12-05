@@ -4,4 +4,4 @@ The goal of weapon detection is to increase public safety and help identify/ pre
 
 ### DETR Experiment
 
-[![Open DETR Experiment In Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15vMWPXiw4vEACOWLQXn3uurFuIU6SVNo#scrollTo=oNSsUs-MSxLT)
+[![Open DETR Experiment In Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15vMWPXiw4vEACOWLQXn3uurFuIU6SVNo?usp=sharing)
